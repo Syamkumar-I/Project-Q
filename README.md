@@ -238,6 +238,21 @@ Planned enhancements include:
 
 ---
 
+# 👨‍💻 Team
+
+Developed for **Amaravathi Quantum Valley Hackathon(AQVH)**
+
+Team Members:
+
+* Syam Kumar
+* Ismail
+* Drakshayani
+* Pushpa
+* Shabena
+* Akhila
+
+---
+
 # 👨‍💻 Author
 
 **Syam Kumar**
@@ -246,17 +261,3 @@ GitHub
 [https://github.com/Syamkumar-I](https://github.com/Syamkumar-I)
 
 ---
-
-# 📜 License
-
-This project is released under the **MIT License**.
-
----
-
-✅ If you want, I can also generate **3 things that will make this repo look extremely professional:**
-
-1️⃣ **Quantum Bloch Sphere architecture diagram for README**
-2️⃣ **Quantum circuit simulator preview images**
-3️⃣ **Advanced README with badges, animations, and diagrams (looks like top GitHub projects)**.
-
-[1]: https://shivakumar96.github.io/?utm_source=chatgpt.com "Shivakumar Suresh Portfolio"
