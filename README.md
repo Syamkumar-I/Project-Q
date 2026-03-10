@@ -117,26 +117,25 @@ Rendering Layer
 
 # 🛠 Tech Stack
 
-### Frontend
+### Programming Laanguage
 
-* React
-* TypeScript
-* Vite
+* Python
 
-### UI Framework
+### WEB Framework
 
-* Tailwind CSS
-* shadcn-ui
+* Streamlit
+
+###Scientific Computing
+
+* Numpy
 
 ### Visualization
 
-* Canvas / WebGL
+* Plotly (3D Bloch Sphere)
 * Quantum state rendering logic
 
 ### Development Tools
 
-* Node.js
-* npm
 * Git
 * GitHub
 
